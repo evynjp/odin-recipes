@@ -1,2 +1,3 @@
 # odin-recipes
-The Odin Projet - HTML Recipes
+The Odin Project - HTML Recipes
+This is HTML practice where HTML coding, good git practices and commits will be done, as well as linking and others. I will update the read me once I am done with the project as a reflection of not only the project, but how I feel about my HTML skills and whether or not I might have to go back into some earlier lessons or redo other projects. I do feel as though some of my CLI skills like copying or moving and some others are rough along with my automatic knowledge of HTML boilerplates, codes and linking. Anyways, here goes.
